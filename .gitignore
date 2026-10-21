@@ -1,0 +1,22 @@
+# Training recordings and generated plots
+*.csv
+*.png
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Arduino IDE and build output
+.arduino/
+build/
+*.bin
+*.elf
+*.hex
+
+# Extracted non-Arduino Edge Impulse C++ export
+wrist-rehabilitation-monitor-cpp-mcu-v1-impulse-#1/
+ei-wrist-rehabilitation-monitor-arduino-*.zip
+New Text Document.txt
+
+# Optional board examples from the generated library
+ei-wrist-rehabilitation-monitor-arduino-*/examples/
